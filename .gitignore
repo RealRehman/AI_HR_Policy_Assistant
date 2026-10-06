@@ -1,0 +1,24 @@
+# Secrets
+.env
+.env.*
+!.env.example
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# App data (policies, database, vectors)
+hr.db
+uploads/
+qdrant_data/
+
+# Node / frontend build
+node_modules/
+dist/
+
+# Editor / OS
+.DS_Store
+.vscode/
+.idea/
+*.log

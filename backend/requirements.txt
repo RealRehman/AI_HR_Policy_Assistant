@@ -1,0 +1,9 @@
+flask
+flask-cors
+python-dotenv
+anthropic
+qdrant-client
+fastembed
+pypdf
+python-docx
+gunicorn
